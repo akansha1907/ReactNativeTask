@@ -12,8 +12,20 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		193D7D8B90B5412091FD8A61 /* Strawford-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 21943F27C00F48DEB6516E9B /* Strawford-ExtraLight.ttf */; };
+		2C567176F2964A69A3BAB1A7 /* Strawford-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 293251277A6F433D90566F51 /* Strawford-Thin.ttf */; };
+		2F6D0B181B254048A00BC453 /* Strawford-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C94337B1BC97466DAE6B0921 /* Strawford-Bold.ttf */; };
+		408349B87E6F437880A8CECF /* Strawford-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6CFDCE0502D94906A5EF96E4 /* Strawford-Light.ttf */; };
+		55DA4EAC05A845FD915BFEC7 /* Scilla-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C0BB002BEEA4B84A3435494 /* Scilla-Regular.otf */; };
+		629609938DBC456EB3E711CB /* Northwell.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1556426905754ACEBC414329 /* Northwell.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-Assignment-AssignmentTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Assignment-AssignmentTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		A9AD075AFA3F4FF7B34EBAEF /* Strawford-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0CF365576A6A4AFDA4D2E876 /* Strawford-Regular.ttf */; };
+		AB8E6F77288F414784F27D27 /* NorthwellAlt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 48CC71DA90BC490D95B37AF6 /* NorthwellAlt.ttf */; };
+		C6D3C2027D8DACC6E2763F1F /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = E185D6412979E65F95E051A5 /* PrivacyInfo.xcprivacy */; };
+		E116187BF0CC470FB2D83D03 /* Strawford-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 64DE1C86503D46359F6A8C37 /* Strawford-Medium.ttf */; };
+		E84EC20CB0514B24B768E073 /* Strawford-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CD6984FA8BE84CB48CD0CFB5 /* Strawford-Black.ttf */; };
+		F82597E667734C1E83D12CBE /* Scilla-RegularItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 74C338D04A6E40A59FA8AB39 /* Scilla-RegularItalic.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,20 +42,32 @@
 		00E356EE1AD99517003FC87E /* AssignmentTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AssignmentTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* AssignmentTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AssignmentTests.m; sourceTree = "<group>"; };
+		0CF365576A6A4AFDA4D2E876 /* Strawford-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Strawford-Regular.ttf"; path = "../src/assets/fonts/Strawford/Strawford-Regular.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* Assignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Assignment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Assignment/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = Assignment/AppDelegate.mm; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = Assignment/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Assignment/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Assignment/main.m; sourceTree = "<group>"; };
-	    13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = Assignment/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = Assignment/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		1556426905754ACEBC414329 /* Northwell.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Northwell.ttf; path = ../src/assets/fonts/NorthWell/Northwell.ttf; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-Assignment-AssignmentTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Assignment-AssignmentTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		21943F27C00F48DEB6516E9B /* Strawford-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Strawford-ExtraLight.ttf"; path = "../src/assets/fonts/Strawford/Strawford-ExtraLight.ttf"; sourceTree = "<group>"; };
+		293251277A6F433D90566F51 /* Strawford-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Strawford-Thin.ttf"; path = "../src/assets/fonts/Strawford/Strawford-Thin.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-Assignment.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Assignment.debug.xcconfig"; path = "Target Support Files/Pods-Assignment/Pods-Assignment.debug.xcconfig"; sourceTree = "<group>"; };
+		48CC71DA90BC490D95B37AF6 /* NorthwellAlt.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = NorthwellAlt.ttf; path = ../src/assets/fonts/NorthWell/NorthwellAlt.ttf; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-Assignment.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Assignment.release.xcconfig"; path = "Target Support Files/Pods-Assignment/Pods-Assignment.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-Assignment-AssignmentTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Assignment-AssignmentTests.debug.xcconfig"; path = "Target Support Files/Pods-Assignment-AssignmentTests/Pods-Assignment-AssignmentTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-Assignment.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Assignment.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64DE1C86503D46359F6A8C37 /* Strawford-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Strawford-Medium.ttf"; path = "../src/assets/fonts/Strawford/Strawford-Medium.ttf"; sourceTree = "<group>"; };
+		6CFDCE0502D94906A5EF96E4 /* Strawford-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Strawford-Light.ttf"; path = "../src/assets/fonts/Strawford/Strawford-Light.ttf"; sourceTree = "<group>"; };
+		74C338D04A6E40A59FA8AB39 /* Scilla-RegularItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Scilla-RegularItalic.otf"; path = "../src/assets/fonts/Scilla-RegularItalic.otf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Assignment/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Assignment-AssignmentTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Assignment-AssignmentTests.release.xcconfig"; path = "Target Support Files/Pods-Assignment-AssignmentTests/Pods-Assignment-AssignmentTests.release.xcconfig"; sourceTree = "<group>"; };
+		9C0BB002BEEA4B84A3435494 /* Scilla-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Scilla-Regular.otf"; path = "../src/assets/fonts/Scilla-Regular.otf"; sourceTree = "<group>"; };
+		C94337B1BC97466DAE6B0921 /* Strawford-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Strawford-Bold.ttf"; path = "../src/assets/fonts/Strawford/Strawford-Bold.ttf"; sourceTree = "<group>"; };
+		CD6984FA8BE84CB48CD0CFB5 /* Strawford-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Strawford-Black.ttf"; path = "../src/assets/fonts/Strawford/Strawford-Black.ttf"; sourceTree = "<group>"; };
+		E185D6412979E65F95E051A5 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = Assignment/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -94,6 +118,7 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 				13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */,
+				E185D6412979E65F95E051A5 /* PrivacyInfo.xcprivacy */,
 			);
 			name = Assignment;
 			sourceTree = "<group>";
@@ -124,6 +149,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				B05D4B16B17C4984879E673F /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -137,6 +163,25 @@
 				00E356EE1AD99517003FC87E /* AssignmentTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		B05D4B16B17C4984879E673F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9C0BB002BEEA4B84A3435494 /* Scilla-Regular.otf */,
+				74C338D04A6E40A59FA8AB39 /* Scilla-RegularItalic.otf */,
+				1556426905754ACEBC414329 /* Northwell.ttf */,
+				48CC71DA90BC490D95B37AF6 /* NorthwellAlt.ttf */,
+				CD6984FA8BE84CB48CD0CFB5 /* Strawford-Black.ttf */,
+				C94337B1BC97466DAE6B0921 /* Strawford-Bold.ttf */,
+				21943F27C00F48DEB6516E9B /* Strawford-ExtraLight.ttf */,
+				6CFDCE0502D94906A5EF96E4 /* Strawford-Light.ttf */,
+				64DE1C86503D46359F6A8C37 /* Strawford-Medium.ttf */,
+				0CF365576A6A4AFDA4D2E876 /* Strawford-Regular.ttf */,
+				293251277A6F433D90566F51 /* Strawford-Thin.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -245,6 +290,18 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				C6D3C2027D8DACC6E2763F1F /* PrivacyInfo.xcprivacy in Resources */,
+				55DA4EAC05A845FD915BFEC7 /* Scilla-Regular.otf in Resources */,
+				F82597E667734C1E83D12CBE /* Scilla-RegularItalic.otf in Resources */,
+				629609938DBC456EB3E711CB /* Northwell.ttf in Resources */,
+				AB8E6F77288F414784F27D27 /* NorthwellAlt.ttf in Resources */,
+				E84EC20CB0514B24B768E073 /* Strawford-Black.ttf in Resources */,
+				2F6D0B181B254048A00BC453 /* Strawford-Bold.ttf in Resources */,
+				193D7D8B90B5412091FD8A61 /* Strawford-ExtraLight.ttf in Resources */,
+				408349B87E6F437880A8CECF /* Strawford-Light.ttf in Resources */,
+				E116187BF0CC470FB2D83D03 /* Strawford-Medium.ttf in Resources */,
+				A9AD075AFA3F4FF7B34EBAEF /* Strawford-Regular.ttf in Resources */,
+				2C567176F2964A69A3BAB1A7 /* Strawford-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -517,6 +574,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CC = "";
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "c++20";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -544,6 +602,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
+				CXX = "";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
@@ -563,6 +622,8 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD = "";
+				LDPLUSPLUS = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					/usr/lib/swift,
 					"$(inherited)",
@@ -582,7 +643,14 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-Wl",
+					"-ld_classic",
+				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 			};
 			name = Debug;
 		};
@@ -590,6 +658,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CC = "";
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "c++20";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -617,6 +686,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
+				CXX = "";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
@@ -629,6 +699,8 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD = "";
+				LDPLUSPLUS = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					/usr/lib/swift,
 					"$(inherited)",
@@ -647,7 +719,14 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-Wl",
+					"-ld_classic",
+				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
